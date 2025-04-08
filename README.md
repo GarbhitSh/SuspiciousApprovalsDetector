@@ -53,11 +53,7 @@ venn-custom-detection/
 │ └── SuspiciousApprovalsDetector.test.ts
 
 ## Running the Detector Locally
-1. Clone the Venn detection framework:
-   ```bash
-   git clone https://github.com/ironblocks/venn-custom-detection.git
-   cd venn-custom-detection
-   npm install
+
    ```
    Add the detector file and test file.
    Run tests:
